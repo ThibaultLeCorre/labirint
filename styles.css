@@ -1,9 +1,79 @@
 /* css styles */
+/* Réinitialisation globale */
 html, body {
     margin: 0;
     padding: 0;
     height: 100%;
     width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar générale */
+.q-navbar {
+    display: flex;
+    justify-content: flex-start; /* Aligner les items à gauche */
+    align-items: center;
+    background-color: #ffffff; /* Couleur de fond */
+    padding: 0.5rem 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Logo */
+.q-navbar-brand img {
+    height: 50px; /* Ajuste la taille du logo */
+    margin-right: 2rem;
+}
+
+/* Liste principale (menu gauche) */
+.q-navbar-nav {
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    margin: 0;
+}
+
+/* Item du menu principal */
+.q-navbar-nav > li {
+    position: relative;
+    margin-right: 1.5rem;
+}
+
+/* Lien principal */
+.q-navbar-nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 0.5rem 1rem;
+    display: block;
+}
+
+/* Menu déroulant (sous-menu) */
+.q-navbar-nav li ul {
+    display: none;
+    position: absolute;
+    top: 100%; /* juste sous l’item parent */
+    left: 0;   /* aligné à gauche */
+    background-color: #f8f8f8;
+    min-width: 200px;
+    padding: 0.5rem 0;
+    list-style: none;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    z-index: 1000;
+}
+
+/* Affichage du menu déroulant au survol */
+.q-navbar-nav li:hover > ul {
+    display: block;
+}
+
+/* Lien du menu déroulant */
+.q-navbar-nav li ul li a {
+    padding: 0.5rem 1rem;
+    color: #333;
+}
+
+/* Effet au survol dans le menu déroulant */
+.q-navbar-nav li ul li a:hover {
+    background-color: #e0e0e0;
 }
 
 iframe {
