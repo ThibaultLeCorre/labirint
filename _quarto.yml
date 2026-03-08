@@ -2,20 +2,32 @@ project:
   type: website
 
 website:
-  title: "labirint_website"
+  title: "LABoratoire pour l'analyse des Interactions, des Réseaux et des INégalités Territoriales"
+  site-url: https://tlecorre.gitpages.huma-num.fr/labirint/
   navbar:
+    logo: "labirint.png"
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Accueil
+      - href: membres.qmd
+        text: Les membres
+      - href: projets.qmd
+        text: Nos projets
+      - href: maitrise.qmd
+        text: Faire une maitrise
+      - href: doctorat.qmd
+        text: Faire un doctorat
+      
+    right:
+    - icon: fa-gitlab
+      href: https://gitlab.huma-num.fr/tlecorre/labirint
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
 
 editor: visual
+
 
