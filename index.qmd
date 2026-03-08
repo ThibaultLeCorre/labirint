@@ -1,5 +1,5 @@
 ---
-title: "labirint_website"
+title: "LABIRINT"
 ---
 
 This is a Quarto website.
