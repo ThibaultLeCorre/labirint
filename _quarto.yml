@@ -4,7 +4,7 @@ project:
 website:
   title: "LABoratoire pour l'analyse des Interactions, des Réseaux et des INégalités Territoriales"
   site-url: https://tlecorre.gitpages.huma-num.fr/labirint/
-    navbar:
+  navbar:
     logo: "labirint.png"
     left:
       - menu:
