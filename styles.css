@@ -24,7 +24,7 @@ html, body {
     margin-right: 2rem;
 }
 
-/* Liste principale (menu gauche) */
+/* Liste principale (menu horizontal de la navbar) */
 .q-navbar-nav {
     list-style: none;
     display: flex;
@@ -46,36 +46,39 @@ html, body {
     display: block;
 }
 
-/* Menu déroulant (sous-menu) */
-.q-navbar-nav li ul {
-    display: none;
-    position: absolute;
-    top: 100%; /* juste sous l’item parent */
-    left: 0;   /* aligné à gauche */
+
+
+
+/* Menu vertical sur la marge gauche de la page */
+.menu-vertical {
+    position: fixed;       /* reste visible quand on scroll */
+    top: 120px;            /* distance depuis le haut */
+    left: 20px;            /* distance depuis la marge gauche */
+    display: flex;
+    flex-direction: column;
     background-color: #f8f8f8;
-    min-width: 200px;
-    padding: 0.5rem 0;
-    list-style: none;
+    padding: 1rem;
+    border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    z-index: 1000;
+    max-width: 220px;
+    z-index: 999;
 }
 
-/* Affichage du menu déroulant au survol */
-.q-navbar-nav li:hover > ul {
-    display: block;
-}
-
-/* Lien du menu déroulant */
-.q-navbar-nav li ul li a {
-    padding: 0.5rem 1rem;
+/* Liens du menu vertical */
+.menu-vertical a {
+    text-decoration: none;
     color: #333;
+    padding: 0.5rem 0;
+    font-weight: bold;
+    font-size: 1rem;
 }
 
-/* Effet au survol dans le menu déroulant */
-.q-navbar-nav li ul li a:hover {
-    background-color: #e0e0e0;
+/* Survol des liens du menu vertical */
+.menu-vertical a:hover {
+    color: #007bff;
 }
 
+/* Style iframe */
 iframe {
     width: 100%;
     height: 100vh;

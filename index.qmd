@@ -1,11 +1,19 @@
 ---
-title: "LABIRINT"
+title: "Bienvenue sur le site du"
+format: html
+css: styles.css
 ---
 
-This is a Quarto website.
+::: menu-vertical
+-   [Accueil](index.qmd)
+-   [Les membres](membres.qmd)
+-   [Nos projets](projets.qmd)
+-   [Faire une maîtrise](maitrise.qmd)
+-   [Faire un doctorat](doctorat.qmd)
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](labirint.png){width="624"}
 
-```{r}
-1 + 1
-```
+# Qu'est-ce que le LABIRINT ?
+
+# Quelles sont les missions du LABIRINT ?

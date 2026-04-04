@@ -1,11 +1,84 @@
 /* css styles */
+/* Réinitialisation globale */
 html, body {
     margin: 0;
     padding: 0;
     height: 100%;
     width: 100%;
+    font-family: Arial, sans-serif;
 }
 
+/* Navbar générale */
+.q-navbar {
+    display: flex;
+    justify-content: flex-start; /* Aligner les items à gauche */
+    align-items: center;
+    background-color: #ffffff; /* Couleur de fond */
+    padding: 0.5rem 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Logo */
+.q-navbar-brand img {
+    height: 50px; /* Ajuste la taille du logo */
+    margin-right: 2rem;
+}
+
+/* Liste principale (menu horizontal de la navbar) */
+.q-navbar-nav {
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    margin: 0;
+}
+
+/* Item du menu principal */
+.q-navbar-nav > li {
+    position: relative;
+    margin-right: 1.5rem;
+}
+
+/* Lien principal */
+.q-navbar-nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 0.5rem 1rem;
+    display: block;
+}
+
+
+
+
+/* Menu vertical sur la marge gauche de la page */
+.menu-vertical {
+    position: fixed;       /* reste visible quand on scroll */
+    top: 120px;            /* distance depuis le haut */
+    left: 20px;            /* distance depuis la marge gauche */
+    display: flex;
+    flex-direction: column;
+    background-color: #f8f8f8;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    max-width: 220px;
+    z-index: 999;
+}
+
+/* Liens du menu vertical */
+.menu-vertical a {
+    text-decoration: none;
+    color: #333;
+    padding: 0.5rem 0;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+/* Survol des liens du menu vertical */
+.menu-vertical a:hover {
+    color: #007bff;
+}
+
+/* Style iframe */
 iframe {
     width: 100%;
     height: 100vh;

@@ -1,11 +1,20 @@
 ---
-title: "labirint_website"
+title: "Réaliser un doctorat dans le LABIRINT"
+format: html
+css: styles.css
 ---
 
-This is a Quarto website.
+<div class="menu-vertical">
+- [Accueil](index.qmd)
+- [Les membres](membres.qmd)
+- [Nos projets](projets.qmd)
+- [Faire une maîtrise](maitrise.qmd)
+- [Faire un doctorat](doctorat.qmd)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+</div>
 
-```{r}
-1 + 1
-```
+# Faire une demande pour entrer au doctorat
+
+# Quelles sont les exigences ?
+
+# Quel financement prévu ?

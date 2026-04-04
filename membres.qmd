@@ -1,11 +1,28 @@
 ---
-title: "labirint_website"
+title: "Les membres du LABIRINT"
+format: html
+css: styles.css
 ---
 
-This is a Quarto website.
+<div class="menu-vertical">
+- [Accueil](index.qmd)
+- [Les membres](membres.qmd)
+- [Nos projets](projets.qmd)
+- [Faire une maîtrise](maitrise.qmd)
+- [Faire un doctorat](doctorat.qmd)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+</div>
 
-```{r}
-1 + 1
-```
+## Qui sommes-nous ?
+
+Nous sommes tous.tes des membres du département de géographie de l'Université de Montréal. 
+
+## Les membres actuels
+
+### Notre directeur du laboratoire
+
+### Nos étudiant.es en maîtrise
+
+- Laeticia Latendresse
+
+ - Louis-Guilhem Placenti

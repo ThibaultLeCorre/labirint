@@ -1,11 +1,20 @@
 ---
-title: "labirint_website"
+title: "Les projets réalisés au sein du LABIRINT"
+format: html
+css: styles.css
 ---
 
-This is a Quarto website.
+<div class="menu-vertical">
+- [Accueil](index.qmd)
+- [Les membres](membres.qmd)
+- [Nos projets](projets.qmd)
+- [Faire une maîtrise](maitrise.qmd)
+- [Faire un doctorat](doctorat.qmd)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+</div>
 
-```{r}
-1 + 1
-```
+# Les projets du Pr.Thibault Le Corre
+
+# Les projets de nos maîtrises
+
+# Les projets de nos doctorant.es

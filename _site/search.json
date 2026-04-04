@@ -1,37 +1,79 @@
 [
   {
-    "objectID": "doctorat.html",
-    "href": "doctorat.html",
-    "title": "labirint_website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "projets.html",
     "href": "projets.html",
-    "title": "labirint_website",
+    "title": "Les projets réalisés au sein du LABIRINT",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Accueil\nLes membres\nNos projets\nFaire une maîtrise\nFaire un doctorat\n\n\n\nLes projets du Pr.Thibault Le Corre\n\n\nLes projets de nos maîtrises\n\n\nLes projets de nos doctorant.es"
   },
   {
     "objectID": "maitrise.html",
     "href": "maitrise.html",
-    "title": "labirint_website",
+    "title": "Réaliser une maîtrise dans le LABIRINT",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Accueil\nLes membres\nNos projets\nFaire une maîtrise\nFaire un doctorat"
+  },
+  {
+    "objectID": "maitrise.html#faire-une-demande-pour-entrer-en-maîtrise",
+    "href": "maitrise.html#faire-une-demande-pour-entrer-en-maîtrise",
+    "title": "Réaliser une maîtrise dans le LABIRINT",
+    "section": "Faire une demande pour entrer en maîtrise",
+    "text": "Faire une demande pour entrer en maîtrise\nLa personne candidate à la maîtrise intégrera le département de géographie de l’Université de Montréal dans le parcours maîtrise recherche, sous la (co)direction du professeur Thibault Le Corre. Les demandes d’admission doivent être réalisées sur le portail institutionnel de l’université. Avant cette demande, les candidat.es doivent rentrer en contact avec le Pr.Thibault Le Corre afin de discuter du projet, des modalités d’admission et d’accueil au sein du département de géographie et du laboratoire.\nUne maîtrise correspond à un projet de recherche qui doit être réalisé en deux années. Durant ces deux années, les étudiant.es doivent suivre un parcours présenté sur les formulaires hébergés sur le site du département de géographie. La prise de connaissance de ce formulaire est un préalable à toute demande d’admission.\nUne co-direction avec un membre interne ou externe de l’UdeM est fortement appréciée. Néanmoins l’étudiant.e doit nécessairement être inscrite à l’UdeM, même dans le cas d’une co-direction."
+  },
+  {
+    "objectID": "maitrise.html#quelles-sont-les-exigences",
+    "href": "maitrise.html#quelles-sont-les-exigences",
+    "title": "Réaliser une maîtrise dans le LABIRINT",
+    "section": "Quelles sont les exigences ?",
+    "text": "Quelles sont les exigences ?\nPour intégrer LABIRINT, il est attendu que le projet de recherche soit proposé directement, au moins en parti, par les candidat.es. Cette proposition doit être réalisée sous un format écrit d’un document d’une à deux pages qui précise la problématique, les objectifs et la méthodologie de recherche. Ce document doit être original, en évitant le recours à une IA générative.\nEn raison de la variabilité des sytèmes d’évaluation des connaissances entre et au sein des établissements académiques, le dossier n’est pas apprécié en fonction des résultats universitaires obtenus au premier cycle, au-délà des pré-requis établis par le département de géographie. En revanche, une grande curiosité discplinaire est attendue, que cela soit sur le plan théorique comme méthodologique. De plus, les candidat.es doivent déjà posséder de solides connaissances des enjeux en géographie humaine, en particulier en géographie urbaine, théorique et quantitative, sociale et économique. Aussi, il est important que les étudiant.es se montrent volontaires à développer un travail d’analyse à partir de méthodes mixtes dans leur recherche, en mobilisant notamment méthodes quantitatives et des outils SIG.\nLe collecte, le traitement et la diffusion des données de la recherche est une mission importante du laboratoire. Durant ou avant leur travail de maîtrise, les étudiant.es seront formé.es aux environnements informatiques en programmation (RStudio, Jupyter…), aux bibliothèques spatiales et statistiques, aux plateformes collaboratives (GitHub, GitLab), aux systèmes de gestion des bases de données. Ils intégreront également les principes FAIR, dont l’objectif de produire une science ouverte, dans la mesure du respect de la confidentialité des données individuelles. Toutes les données non confidentielles seront partagées à la communauté scientifique via des entrepôts institutionnels. Par ailleurs, il et elles utliseront, dans la mesure du possible, uniquement des outils libres et open source. Toute demande d’utilisation d’un outil propriétaire devra être justifiée, en particulier les outils qui émanent des GAFAM, en dehors des outils proposés par l’UdeM. Il est égalment attendu de ne pas utiliser dans la recherche les IA génératives issues de firmes non-éthiques (ChatGPT d’OpenAI, Gemini de Google…)."
+  },
+  {
+    "objectID": "maitrise.html#quel-financement-prévu",
+    "href": "maitrise.html#quel-financement-prévu",
+    "title": "Réaliser une maîtrise dans le LABIRINT",
+    "section": "Quel financement prévu ?",
+    "text": "Quel financement prévu ?\nLa maîtrise est une formation à la recherche à plein temps. De ce fait, pour intégrer le LABIRINT en maîtrise, l’obtention d’un financement est fortement recommandé, sans être néanmoins obligatoire.\nLe financement peut être en parti garanti au niveau du laboratoire, en fonction des fonds disponibles. Le financement garanti correspond à un montant de $15000CAN annuel (trois trimestres complets) octroyé sur la base des fonds de recherche du professeur et des tâches à réaliser en contre-partie. Ce financement garanti n’est pas automatique, il est octroyé par le professeur et l’étudiant.e en fait mention lors de sa demande d’inscription.\n\nRépartition du financement garanti\n\n\nOrigine\nMontant\nConditions\n\n\n\n\nFonds professoraux\nJusqu’à $10000CAN/an répartis sur les trois trimestres\nSuivre le parcours en maîtrise en accord avec les exigences du département de géographie de l’UdeM.\nRéaliser sa maîtrise à temps plein (35h/semaine)\nFaire des demandes de bourses, y compris bourses à la maîtrise CRSH et FRQSC.\nParticiper à la vie du laboratorire\n\n\nAuxiliariat d’enseignement et de recherche\nJusqu’à $5000CAN/an\nAssister le professeur à ses enseignements, jusqu’à la limite du nombre d’heures maximales indiquée par le département.\nAssister le professeur sur ses projets de recherche, notamment durant la session estivale.\n\n\nBourses (hors bourses à la maîtrise CRSH et FRQSC)\nJusqu’à $15000CAN/an\nL’obtention d’une bourse permet de diminuer les montants alloués par le travail d’auxiliariat et les fonds professoraux. Les bourses seront en priorités déduites de l’auxiliariat (le travail d’auxiliariat pourra alors contribuer à un complément de revenu). Pour connaître les bourses accessibles, l’étudiant.e devra régulièrement consulter le répertoire des bourses. Les programmes d’aide financière (exemption des frais de scolarité…) ne rentrent pas dans la comptabilité du financement garanti.\n\n\n\nLe financement garanti n’est pas suffisant au regard du coût de la vie et des frais d’inscription, mais aussi car les fonds professoraux en internes sont limités. Afin de libérer des enveloppes du financement garanti, les étudiant.es doivent s’engager pour bénéficier de leur propre financement. A cette fin, tous.tes les candidat.es doivent réaliser des demandes de bourses auprès de des organismes subventionnaires au niveau fédéral et provincial, le plus tôt possible et durant toute la durée de la maîtrise. Ces bourses sont généralement plus généreuses que le financement garanti.\n\nBourses à la maîtrise CRSH et FRQSC\n\n\n\n\n\n\n\nOrganisme subventionnaire\nMontant\nConditions\n\n\n\n\nCRSH/CRNSG. Bourses d’études supérieures en recherche du Canada au niveau de la maîtrise\n27000$ par année sur 1 an\nVoir le site internet de l’organisme subventionaire. Il est attendu que tous.tes les candidates à la maîtrise réalisent une demande annuelle, dès que possible et jusqu’à l’obtention de la bourse. Les bourses des deux organismes sont cumulables.\n\n\nFRQ\n20000$ par année sur 2 ans\nVoir le site internet de l’organisme subventionaire. Il est attendu que tous.tes les candidates à la maîtrise réalisent une demande annuelle, dès que possible et jusqu’à l’obtention de la bourse. Les bourses des deux organismes sont cumulables.\n\n\n\nIl existe plusieurs options pour obtenir du financement, en fonction de la temporalité de la demande d’admission et du parcours des étudiant.es.\n\nFinancement selon le parcours\n\n\n\n\n\n\n\nSituations\nDemande de financement fédéral et provincial\nFinancement garanti\n\n\n\n\nOption 1 : je suis étudiant.e à l’UdeM au baccalauréat.\nAprès avoir contacté le professeur, j’entame des demandes de bourses l’année précédente mon entrée en maîtrise en tenant compte du calendrier des organismes subventionnaires. Je réitère mes demandes jusqu’à l’obtention d’au moins une des deux bourses.\nSi la totalité de mes bourses ne permettent pas d’atteindre 15000$/an, je vois avec le professeur les possibilités de financement garanti et ce dès ma demande d’admission en maîtrise.\n\n\nOption 2 : je suis étudiant.e dans un autre établissement canadien\nAprès avoir contacté le professeur, j’entame des demandes de bourses l’année précédente mon entrée en maîtrise en tenant compte du calendrier des organismes subventionnaires. Je réitère mes demandes jusqu’à l’obtention d’au moins une des deux bourses.\nSi la totalité de mes bourses ne permettent pas d’atteindre 15000$/an, je vois avec le professeur les possibilités de financement garanti et ce dès ma demande d’admission en maîtrise.\n\n\nOption 3 : je viens de l’étranger\nJ’entame des demandes de bourses l’année d’entrée en maîtrise en tenant compte du calendrier des organismes subventionnaires. Je réitère mes demandes jusqu’à l’obtention d’au moins une des deux bourses.\nJe vois avec le professeur les possibilités de financement garanti et ce dès ma demande d’admission en maîtrise."
+  },
+  {
+    "objectID": "doctorat.html",
+    "href": "doctorat.html",
+    "title": "Réaliser un doctorat dans le LABIRINT",
+    "section": "",
+    "text": "Accueil\nLes membres\nNos projets\nFaire une maîtrise\nFaire un doctorat\n\n\n\nFaire une demande pour entrer au doctorat\n\n\nQuelles sont les exigences ?\n\n\nQuel financement prévu ?"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Accueil\nLes membres\nNos projets\nFaire une maîtrise\nFaire un doctorat"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenue sur le site du",
+    "section": "",
+    "text": "Accueil\nLes membres\nNos projets\nFaire une maîtrise\nFaire un doctorat\n\n\n\n\nQu’est-ce que le LABIRINT ?\n\n\nQuelles sont les missions du LABIRINT ?"
   },
   {
     "objectID": "membres.html",
     "href": "membres.html",
-    "title": "labirint_website",
+    "title": "Les membres du LABIRINT",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Accueil\nLes membres\nNos projets\nFaire une maîtrise\nFaire un doctorat"
+  },
+  {
+    "objectID": "membres.html#qui-sommes-nous",
+    "href": "membres.html#qui-sommes-nous",
+    "title": "Les membres du LABIRINT",
+    "section": "Qui sommes-nous ?",
+    "text": "Qui sommes-nous ?\nNous sommes tous.tes des membres du département de géographie de l’Université de Montréal."
+  },
+  {
+    "objectID": "membres.html#les-membres-actuels",
+    "href": "membres.html#les-membres-actuels",
+    "title": "Les membres du LABIRINT",
+    "section": "Les membres actuels",
+    "text": "Les membres actuels\n\nNotre directeur du laboratoire\n\n\nNos étudiant.es en maîtrise\n\nLaeticia Latendresse\nLouis-Guilhem"
   }
 ]
