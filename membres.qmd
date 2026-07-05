@@ -17,12 +17,21 @@ css: styles.css
 
 Nous sommes tous.tes des membres du département de géographie de l'Université de Montréal. 
 
-## Les membres actuels
 
-### Notre directeur du laboratoire
+### Directeur du laboratoire
 
 ### Nos étudiant.es en maîtrise
 
+- Robin Durand
+
+Je suis étudiant à la maîtrise en géographie à l’UdeM pour mener une recherche sur la géographie de la Commune. Avant cela, j’ai fait une licence en géographie et une une première année de maîtrise spécialisée dans la culture et le patrimoine en France. J'ai aussi suivi les cours du DESS en géomatique de l’UdeM. Dans mon parcours professionnel et personnel j’ai acquis des compétences en développement Web et en codage créatif. Mes intérêts sont la géographie humaine et sociale et les enjeux géopolitiques locaux et globaux. Je m’intéresse aussi à l’analyse et à la visualisation de données.
+
 - Laeticia Latendresse
 
- - Louis-Guilhem Placenti
+- Louis-Guilhem Placenti
+
+Je suis étudiant étudiant à la maîtrise au département de géographie de l’UdeM. Je suis également diplômé d’État de l’École nationale supérieure d’architecture de Versailles. Au cours de cette formation je me suis intéressé aux productions mémorielles issues des inégalités systémiques. J'ai notamment réalisé une installation documentaire intitulée « Nos Mort.e.s », ou encore un projet cartographique « Un foncier parisien possible » qui illustre le gradient de publicité qui sépare les citoyens des strates administratives et de leurs espaces, et qui imagine une pratique alternative de l’architecture publique. Plus récemment, je me suis penché sur la dimension spatiale de la mémoire ordinaire et de ses inégalités par l’étude historique et micro-géographique du cimetière de Saint-Denis, en France. Je réalise actuellement une maîtrise sur les commerces de courte durée et les dynamiques de gentrification à Montréal.
+
+
+ 
+ 

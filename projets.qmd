@@ -8,13 +8,23 @@ css: styles.css
 - [Accueil](index.qmd)
 - [Les membres](membres.qmd)
 - [Nos projets](projets.qmd)
-- [Faire une maîtrise](maitrise.qmd)
-- [Faire un doctorat](doctorat.qmd)
+- [Entrer dans le LABIRINT](maitrise.qmd)
+
 
 </div>
 
 # Les projets du Pr.Thibault Le Corre
 
-# Les projets de nos maîtrises
+# Les projets en maîtrise
+
+
+#### Baux commerciaux de courte durée et gentrification commerciale à Montréal : le rôle des stratégies d’investissement des bailleurs 
+
+Cette recherche menée par Louis-Guilhem Placenti interroge la gentrification commerciale par l’étude des baux commerciaux de courte durée et des stratégies d’investissements des bailleurs à Montréal qui les amènent à privilégier ces formes d’occupation temporaires. À la croisée entre la vacance commerciale et l’aspect culturel du commerce, ce projet vise à contribuer à la recherche sur les dynamiques urbaines au sein des villes nord-américaines. 
+
+
+#### Micro-géographie de la Commune : analyse spatiale des réseaux et trajectoires des insurgés de 1871.
+
+Ce projet réalisé par Robin Durand est une micro-géographie de la Commune. Cette insurrection parisienne de 1871 est un jalon majeur de l’histoire du mouvement ouvrier. L'objectif de ce travail est d'identifier l'hétérogénéité sociale du mouvement, sa structuration, et le poids des grandes figures féminines. Le projet se situe au croisement des sciences de l’information géographique et de l’analyse textuelle à partir de sources historiques. Robin se repose sur de l’analyse spatiale et l'analyse de réseaux pour reconstituer les trajectoires de vie des militants, en modélisant les flux migratoires de ces acteurs, ainsi que pour observer les permanences et les centralités des figures et les hauts lieux post-événement.
 
 # Les projets de nos doctorant.es
