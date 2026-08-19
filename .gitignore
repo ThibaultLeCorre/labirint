@@ -6,3 +6,5 @@
 /.quarto/
 
 about.qmd
+
+_site/about.html
