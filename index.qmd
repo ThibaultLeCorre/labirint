@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bienvenue sur le site du LABIRINT"
 format: html
 css: styles.css
 ---

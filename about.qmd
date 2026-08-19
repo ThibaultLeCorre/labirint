@@ -5,9 +5,15 @@ css: styles.css
 ---
 
 <!-- ::: menu-vertical -->
+
 <!-- - [Accueil](index.qmd) -->
+
 <!-- - [Les membres](membres.qmd) -->
+
 <!-- - [Nos projets](projets.qmd) -->
+
 <!-- - [Faire une maîtrise](maitrise.qmd) -->
+
 <!-- - [Faire un doctorat](doctorat.qmd) -->
+
 <!-- ::: -->
