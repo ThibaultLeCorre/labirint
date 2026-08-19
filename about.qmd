@@ -3,12 +3,11 @@ title: "About"
 format: html
 css: styles.css
 ---
-<div class="menu-vertical">
+
+::: menu-vertical
 - [Accueil](index.qmd)
 - [Les membres](membres.qmd)
 - [Nos projets](projets.qmd)
 - [Faire une maîtrise](maitrise.qmd)
 - [Faire un doctorat](doctorat.qmd)
-
-</div>
-
+:::

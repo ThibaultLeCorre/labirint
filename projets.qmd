@@ -1,30 +1,44 @@
 ---
-title: "Les projets réalisés au sein du LABIRINT"
+title: "Projets et valorisations de la recherche"
 format: html
 css: styles.css
 ---
 
-<div class="menu-vertical">
-- [Accueil](index.qmd)
-- [Les membres](membres.qmd)
-- [Nos projets](projets.qmd)
-- [Entrer dans le LABIRINT](maitrise.qmd)
+<!-- ::: {.dropdown} -->
+<!-- [Menu]{.btn .btn-primary} -->
 
+<!-- - [Accueil](index.qmd) -->
+<!-- - [Les membres](membres.qmd) -->
+<!-- - [Projets et productions scientifiques](projets.qmd) -->
+<!-- - [Rejoindre le LABIRINT](maitrise.qmd) -->
+<!-- ::: -->
 
-</div>
+## Projets de recherche
 
-# Les projets du Pr.Thibault Le Corre
+#### CryptoCarto : Cartographie des mécanismes de l'investissement dans l'écosystème du marché immobilier tokénisé fractionné
 
-# Les projets en maîtrise
+Cette recherche, coordonnée par Thibault Le Corre (PI) et financé par le CRSH (programme Développement Savoir), vise à comprendre comment l'intermédiation marchande de plateforme et les investissements associés à travers la tokenisation des actifs immobiliers, transforment les dimensions spatiales et sociales des échanges économiques contemporains. Alors que les marchés immobiliers sont caractérisés par des intermédiaires traditionnels et une inscription locale, l'émergence de plateformes permettant d'investir en cryptomonnaies et de fractionner la propriété immobilière en jetons numériques, modifie profondément les modalités d'accès au marché immobilier et les pratiques d'investissement. Cette transformation technologique promet une démocratisation de l'investissement immobilier mais elle soulève en même temps des enjeux sur les recompositions sociales et spatiales de marchés immobiliers. Cette recherche propose d'analyser ces enjeux sous deux dimensions. D'abord, elle explore l'émergence de nouvelles géographies financières liées à ces innovations. L'apparition de pôles technologiques et financiers spécialisés dans la tokenisation immobilière redessine la carte des espaces et lieux des transactions marchandes du local au global, engageant une modification des flux de capitaux entre quartiers, villes et pays. Elle examine ensuite comment la tokenisation reconfigure les "rapports de pouvoir" entre les différents acteurs du marché immobilier - propriétaires, investisseurs et intermédiaires. Elle s'intéresse notamment à la manière dont les plateformes technologiques s'imposent comme de nouveaux intermédiaires incontournables, redéfinissant les relations traditionnelles du marché immobilier, mais aussi comment elles se conjuguent avec d'autres acteurs (physiques ou numériques) émergents qui servent de relais pour la commercialisation des actifs.
 
+#### Investissements locatifs privés et multipropriété : quels enjeux pour la division sociale de l'espace dans les métropoles canadiennes ?
 
-#### Baux commerciaux de courte durée et gentrification commerciale à Montréal : le rôle des stratégies d’investissement des bailleurs 
+Ce projet de recherche, coordonné par Thibault Le Corre (PI) et financé par le FRQSC (programme Relève Professorale), vise à analyser les dimensions spatiales de la multipropriété privée au Québec et dans d'autres provinces canadiennes. À partir de méthodes mixtes, l'examen de différents jeux de données permettra de mesurer l'ampleur du phénomène, de saisir certaines contributions aux inégalités socio-spatiales et de comprendre les stratégies d'investissement des ménages multipropriétaires. Plus précisément, le projet est structuré en trois parties. La première a pour objectif de dresser l'organisation spatiale du parc détenu par des multipropriétaires dans trois métropoles québécoises (Montréal, Québec, Saguenay). La collecte et l'exploitation de données issues des rôles d'évaluation foncière des municipalités des trois métropoles permettront de renseigner les contextes socio-économiques, d'estimer les flux de capitaux et de modéliser les stratégies d'investissement des ménages multipropriétaires. La deuxième partie vise à identifier différentes communautés de multipropriétaires à partir de leurs caractéristiques sociales et de la localisation de leurs biens immobiliers, grâce aux enquêtes inédites issues du programme de la statistique du logement canadien (PSLC), et ce pour les métropoles de plusieurs provinces canadiennes. Enfin, à partir d'une enquête de terrain, la troisième partie a pour objectif d'examiner le rôle des technologies, des dispositifs de calculs et des données territoriales locales sur l'orientation des stratégies spatiales d'investissement des multipropriétaires à Montréal. 
 
-Cette recherche menée par Louis-Guilhem Placenti interroge la gentrification commerciale par l’étude des baux commerciaux de courte durée et des stratégies d’investissements des bailleurs à Montréal qui les amènent à privilégier ces formes d’occupation temporaires. À la croisée entre la vacance commerciale et l’aspect culturel du commerce, ce projet vise à contribuer à la recherche sur les dynamiques urbaines au sein des villes nord-américaines. 
+#### Baux commerciaux de courte durée et gentrification commerciale à Montréal : le rôle des stratégies d'investissement des bailleurs
 
+Cette recherche menée par Louis-Guilhem Placenti (étudiant en maîtrise) interroge la gentrification commerciale par l'étude des baux commerciaux de courte durée et des stratégies d'investissements des bailleurs à Montréal qui les amènent à privilégier ces formes d'occupation temporaires. À la croisée entre la vacance commerciale et l'aspect culturel du commerce, ce projet vise à contribuer à la recherche sur les dynamiques urbaines au sein des villes nord-américaines.
 
 #### Micro-géographie de la Commune : analyse spatiale des réseaux et trajectoires des insurgés de 1871.
 
-Ce projet réalisé par Robin Durand est une micro-géographie de la Commune. Cette insurrection parisienne de 1871 est un jalon majeur de l’histoire du mouvement ouvrier. L'objectif de ce travail est d'identifier l'hétérogénéité sociale du mouvement, sa structuration, et le poids des grandes figures féminines. Le projet se situe au croisement des sciences de l’information géographique et de l’analyse textuelle à partir de sources historiques. Robin se repose sur de l’analyse spatiale et l'analyse de réseaux pour reconstituer les trajectoires de vie des militants, en modélisant les flux migratoires de ces acteurs, ainsi que pour observer les permanences et les centralités des figures et les hauts lieux post-événement.
+Ce projet réalisé par Robin Durand (étudiant en maîtrise) est une micro-géographie de la Commune. Cette insurrection parisienne de 1871 est un jalon majeur de l'histoire du mouvement ouvrier. L'objectif de ce travail est d'identifier l'hétérogénéité sociale du mouvement, sa structuration, et le poids des grandes figures féminines. Le projet se situe au croisement des sciences de l'information géographique et de l'analyse textuelle à partir de sources historiques. Robin se repose sur de l'analyse spatiale et l'analyse de réseaux pour reconstituer les trajectoires de vie des militants, en modélisant les flux migratoires de ces acteurs, ainsi que pour observer les permanences et les centralités des figures et les hauts lieux post-événement.
 
-# Les projets de nos doctorant.es
+#### La privatisation et l'élitisation de l'espace urbain montréalais
+
+Ce projet de maîtrise s'intéresse à la manière dont les villes se démarquent sur la scène internationale en accueillant de grands évènements sportifs. Financée par le Conseil de recherches en sciences humaines du Canada (CRSH), cette recherche en maîtrise menée par Laeticia Latendresse porte sur le Grand Prix de Formule 1 du Canada et les Championnats du Monde cyclisme sur Route UCI 2026 à Montréal. Il vise à comprendre comment les discours médiatiques et les politiques publiques encadrant ces évènements transforment temporairement l'espace urbain montréalais aussi bien dans sa dimension matérielle que discursive. Laeticia interroge la manière dont la mise en scène de ces évènements tend à encourager d'une part une certaine vision de la ville et d'autre part, l'appropriation de l'espace par les élites urbaines. Plus largement, il s'agit d'analyser la manière dont les grands événements au nom de leur exceptionnalité tendent à encourager la privatisation, la division sociale de l'espace et l'élitisation de l'espace urbain, et ce, aux dépens de l'environnement et des citoyens. Les objectifs du projet sont de comprendre le rôle de l’évènementiel dans la mise en récit de Montréal comme métropole compétitive, d'analyser les réseaux et discours d'acteurs publics et privés qui les légitiment et d'étudier leurs impacts sur la privatisation de l'espace et l'exclusion des populations les plus vulnérables du paysage médiatique et urbain.
+
+## Dernières publications
+
+Le Corre, T., Raimbault, N., Cito, N. (2026). Sous les projecteurs pendant la crise sanitaire, les « travailleurs essentiels » de nouveau invisibles, in R. Le Goix, A. Ribardière, J. Rivière & alii, Atlas Social de la France \[En ligne\], <https://doi.org/10.48649/asf.1269>.
+
+Ay, J.-S., & Le Corre, T. (2026). The social stratification of homeowners' housing wealth: Bringing a dynamic approach through the price gap index. *Environment and Planning B: Urban Analytics and City Science*, *53*(1), 180-197. <https://doi.org/10.1177/23998083251339296>
+
+Abella, D., Martínez, J.H., Mazzoli, M. *et al.* (2025). Exploring the spatial segmentation of housing markets from online listings. *EPJ Data Sci.* 14, 34. <https://doi.org/10.1140/epjds/s13688-025-00551-z>

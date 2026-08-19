@@ -2,22 +2,21 @@ project:
   type: website
 
 website:
-  title: "LABoratoire pour l'analyse des Interactions, des Réseaux et des INégalités Territoriales"
+  title: "LABIRINT"
   site-url: https://tlecorre.gitpages.huma-num.fr/labirint/
   navbar:
-    logo: "labirint.png"
+    logo: "fig/logo_lab_udem.png"
     left:
+      - text: "Navigation"
       - menu:
           - href: index.qmd
             text: Accueil
           - href: membres.qmd
-            text: Les membres
+            text: Membres
           - href: projets.qmd
-            text: Nos projets
+            text: Projets
           - href: maitrise.qmd
-            text: Faire une maîtrise
-          - href: doctorat.qmd
-            text: Faire un doctorat
+            text: Intégrer le LABIRINT
       
     right:
     - icon: fa-gitlab
