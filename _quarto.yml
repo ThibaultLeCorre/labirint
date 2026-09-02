@@ -9,6 +9,15 @@ website:
   navbar:
     logo: "fig/logo_lab_udem.png"
 
+  left:
+    - href: index.qmd
+      text: Accueil
+    - href: membres.qmd
+      text: Membres
+    - href: projets.qmd
+      text: Projets
+    - href: maitrise.qmd
+      text: Intégrer le LABIRINT
 
     right:
       - icon: fa-github
