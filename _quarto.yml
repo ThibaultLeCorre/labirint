@@ -3,7 +3,7 @@ project:
 
 website:
   title: "LABoratoire pour l’analyse des Interactions, des Réseaux et des INégalités Territoriales"
-  site-url: https://tlecorre.gitpages.huma-num.fr/labirint/
+  site-url: https://thibaultlecorre.github.io/labirint/
   navbar:
     logo: "fig/logo_lab_udem.png"
     left:
