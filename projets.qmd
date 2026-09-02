@@ -4,14 +4,15 @@ format: html
 css: styles.css
 ---
 
-<!-- ::: {.dropdown} -->
-<!-- [Menu]{.btn .btn-primary} -->
+:::menu-vertical
+[Accueil](index.qmd)
 
-<!-- - [Accueil](index.qmd) -->
-<!-- - [Les membres](membres.qmd) -->
-<!-- - [Projets et productions scientifiques](projets.qmd) -->
-<!-- - [Rejoindre le LABIRINT](maitrise.qmd) -->
-<!-- ::: -->
+[Membres](membres.qmd)
+
+[Projets](projets.qmd)
+
+[Intégrer le LABIRINT](maitrise.qmd)
+:::
 
 ## Projets de recherche
 

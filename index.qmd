@@ -4,19 +4,15 @@ format: html
 css: styles.css
 ---
 
-<!-- ::: menu-vertical -->
+:::menu-vertical
+[Accueil](index.qmd)
 
-<!-- - [Accueil](index.qmd) -->
+[Membres](membres.qmd)
 
-<!-- - [Les membres](membres.qmd) -->
+[Projets](projets.qmd)
 
-<!-- - [Nos projets](projets.qmd) -->
-
-<!-- - [Faire une maîtrise, un doctorat ou un postdoctorat](maitrise.qmd) -->
-
-<!-- - [Faire un doctorat](doctorat.qmd) -->
-
-<!-- ::: -->
+[Intégrer le LABIRINT](maitrise.qmd)
+:::
 
 ![](fig/logo_lab_udem.png){width="624"}
 

@@ -4,12 +4,15 @@ format: html
 css: styles.css
 ---
 
-<!-- ::: menu-vertical -->
-<!-- - [Accueil](index.qmd) -->
-<!-- - [Les membres](membres.qmd) -->
-<!-- - [Nos projets](projets.qmd) -->
-<!-- - [Rejoindre le LABIRINT](maitrise.qmd) -->
-<!-- ::: -->
+:::menu-vertical
+[Accueil](index.qmd)
+
+[Membres](membres.qmd)
+
+[Projets](projets.qmd)
+
+[Intégrer le LABIRINT](maitrise.qmd)
+:::
 
 ## Qui sommes-nous ?
 
