@@ -1,28 +1,60 @@
-image: rocker/verse:4.3.2
 
-variables:
-  QUARTO_VERSION: 1.7.32
-  BASENAME: index
+name: Build and Deploy Quarto
 
-before_script:
-  # Installer les packages R nécessaires
-  - R -e "install.packages(c('quarto', 'knitr', 'tidyverse', 'rmarkdown'), repos='https://cloud.r-project.org/')"
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
-pages:
-  script:
-    - mkdir -p public
-    - rm -rf public/*            # Nettoie le dossier avant build
-    # Télécharger et installer Quarto
-    - wget -q "https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.deb"
-    - dpkg -i quarto-${QUARTO_VERSION}-linux-amd64.deb || apt-get install -f -y
-    # Rendre le site Quarto dans le dossier public
-    - quarto render . --output-dir=public/
-    # Copier _site si nécessaire
-    - if [ -d "_site" ]; then cp -R _site/* public/; fi
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
-  artifacts:
-    paths:
-      - public
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-  only:
-    - main
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.2'
+
+      - name: Install R packages
+        run: |
+          R -e "install.packages(c('quarto', 'knitr', 'tidyverse', 'rmarkdown'), repos='https://cloud.r-project.org/')"
+
+      - name: Install Quarto
+        run: |
+          wget -q "https://github.com/quarto-dev/quarto-cli/releases/download/v1.7.32/quarto-1.7.32-linux-amd64.deb"
+          sudo dpkg -i quarto-1.7.32-linux-amd64.deb
+
+      - name: Render Quarto site
+        run: |
+          mkdir -p public
+          rm -rf public/*
+          quarto render . --output-dir=public/
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
