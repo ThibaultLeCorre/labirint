@@ -20,7 +20,7 @@ website:
       
     right:
     - icon: fa-gitlab
-      href: https://gitlab.huma-num.fr/tlecorre/labirint
+      href: https://thibaultlecorre.github.io/labirint/
 
 format:
   html:
