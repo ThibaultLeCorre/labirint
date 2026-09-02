@@ -4,7 +4,7 @@ format: html
 css: styles.css
 ---
 
-:::menu-vertical
+::: menu-vertical
 [Accueil](index.qmd)
 
 [Membres](membres.qmd)
@@ -18,20 +18,16 @@ css: styles.css
 
 ## Qu'est-ce que le LABIRINT ?
 
-Le LABoratoire pour l'analyse des Interactions, des Réseaux et des INégalités Territoriales (LABIRINT) est un nouveau laboratoire de recherche en Systèmes d'informations Géographiques (SIG) et en géographie humaine du [département de géographie de l'Université de Montréal](https://geographie.umontreal.ca/accueil/) (UdeM). Coordonné par le professeur [Thibault Le Corre](https://geographie.umontreal.ca/repertoire-departement/professeurs/professeur/in/in36582/sg/Thibault%20Le%20Corre/), le LABIRINT regroupe principalement des étudiant.es du département qui y mènent leur recherche.
+Le LABoratoire pour l'analyse des Interactions, des Réseaux et des INégalités Territoriales (LABIRINT) est un laboratoire de recherche en Sciences des données spatiales, Systèmes d'Informations Géographiques (SIG) et Géographie humaine du [département de géographie de l'Université de Montréal](https://geographie.umontreal.ca/accueil/) (UdeM). Coordonné par le professeur [Thibault Le Corre](https://geographie.umontreal.ca/repertoire-departement/professeurs/professeur/in/in36582/sg/Thibault%20Le%20Corre/), le LABIRINT regroupe principalement des étudiant·es du département qui y mènent leur recherche.
 
-L'objectif du LABIRINT est de favoriser l'émergence au département de géographie de l'UdeM, de recherches en Sciences Humaines et Sociales avec une dimension spatiale et qui adoptent des méthodes mixtes de la recherche, en privilégiant notamment la dimension quantitative, l'analyse spatiale et l'analyse de réseaux. Les recherches menées par le LABIRINT sont éclectiques tout en ayant l'objectif commun de comprendre et d’interroger diverses dynamiques territoriales, en particulier dans les espaces urbains.
+L'objectif du LABIRINT est de favoriser l'émergence de recherches en Sciences Humaines et Sociales avec une dimension spatiale et qui adoptent des méthodes mixtes de la recherche, en privilégiant notamment la dimension quantitative, l'analyse spatiale et l'analyse de réseaux. Les recherches menées par le LABIRINT sont éclectiques tout en ayant l'objectif commun de comprendre et d’interroger diverses dynamiques territoriales, en particulier dans les espaces urbains.
 
 ## Contact
-
-Adresse courriel : thibault.le.corre\@umontreal.ca
-
-Téléphone bureau : (514)-343-6111 #13986
-
-Adresse postale :
-
-LABIRINT
 
 Campus MIL – Complexe des sciences. Local B-5347
 
 1375, avenue Thérèse-Lavoie-Roux, Montréal, QC H2V 0B3
+
+Adresse courriel : [thibault.le.corre\@umontreal.ca](thibault.le.corre\@umontreal.ca)
+
+Téléphone bureau : (514)-343-6111 #13986
