@@ -1,1 +1,1 @@
-Sitemap: https://tlecorre.gitpages.huma-num.fr/labirint/sitemap.xml
+Sitemap: https://thibaultlecorre.github.io/labirint/sitemap.xml
