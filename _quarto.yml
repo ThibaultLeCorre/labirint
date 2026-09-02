@@ -1,14 +1,17 @@
+
 project:
   type: website
 
 website:
   title: "LABoratoire pour l’analyse des Interactions, des Réseaux et des INégalités Territoriales"
   site-url: https://thibaultlecorre.github.io/labirint/
+
   navbar:
     logo: "fig/logo_lab_udem.png"
+
     left:
       - text: "Navigation"
-      - menu:
+        menu:
           - href: index.qmd
             text: Accueil
           - href: membres.qmd
@@ -17,10 +20,10 @@ website:
             text: Projets
           - href: maitrise.qmd
             text: Intégrer le LABIRINT
-      
+
     right:
-    - icon: fa-gitlab
-      href: https://thibaultlecorre.github.io/labirint/
+      - icon: fa-github
+        href: https://github.com/thibaultlecorre/labirint/
 
 format:
   html:
@@ -29,5 +32,4 @@ format:
     toc: true
 
 editor: visual
-
 
